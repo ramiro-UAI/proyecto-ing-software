@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BE_5283_MB/BE_5283_MB.csproj" />
+  <Project Path="BLL5283_MB/BLL_5283_MB.csproj" />
+  <Project Path="DAL_5283_MB/DAL_5283_MB.csproj" />
+  <Project Path="Proyecto-Montero-Botto/GUI_5283_MB.csproj" />
+  <Project Path="SRV_5283_MB/SRV_5283_MB.csproj" />
+</Solution>
