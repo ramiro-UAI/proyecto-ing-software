@@ -1,7 +1,7 @@
 <Solution>
-  <Project Path="BE_5283_MB/BE_5283_MB.csproj" />
-  <Project Path="BLL5283_MB/BLL_5283_MB.csproj" />
-  <Project Path="DAL_5283_MB/DAL_5283_MB.csproj" />
-  <Project Path="Proyecto-Montero-Botto/GUI_5283_MB.csproj" />
-  <Project Path="SRV_5283_MB/SRV_5283_MB.csproj" />
+  <Project Path="BE5283_MB/BE5283_MB.csproj" Id="346ac8c5-9076-4674-992c-b9c88324ecb6" />
+  <Project Path="BLL5283_MB/BLL5283_MB.csproj" Id="98dbc021-a9f0-4b67-a55f-dc901a1dcc52" />
+  <Project Path="DAL5283_MB/DAL5283_MB.csproj" Id="1282e8f8-8247-446c-a3a5-8e085f85b9f5" />
+  <Project Path="Proyecto-Montero-Botto/GUI_5283_MB.csproj" Id="d11cd8d7-4608-48e7-b137-38499c0baaa5" />
+  <Project Path="SRV5283_MB/SRV5283_MB.csproj" Id="a46fe950-1187-4395-9050-ef1a1b66a9c5" />
 </Solution>

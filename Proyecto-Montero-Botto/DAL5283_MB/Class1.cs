@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL5283_MBC
+namespace DAL5283_MB
 {
     public class Class1
     {
