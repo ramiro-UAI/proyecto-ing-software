@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SRV5283_MB
 {
-    public class Class1
+    public abstract class Entity5283_MB
     {
+        public int ID { get; set; }
     }
 }

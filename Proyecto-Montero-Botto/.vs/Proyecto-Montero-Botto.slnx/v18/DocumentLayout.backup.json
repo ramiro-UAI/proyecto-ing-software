@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\SessionManager5283_MB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SRV5283_MB\\SessionManager5283_MB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\encriptador5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\encriptador5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\proyecto-montero-botto\\menuprincipal5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\menuprincipal5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\bllusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\bllusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\proyecto-montero-botto\\menuprincipal5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\menuprincipal5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\dalabstract5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\dalabstract5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Sesion5283_MT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SRV5283_MB\\Sesion5283_MT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\dalusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\dalusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\usuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\usuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\proyecto-montero-botto\\login5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\login5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\proyecto-montero-botto\\login5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\login5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,50 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SessionManager5283_MB.cs",
-              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\SessionManager5283_MB.cs",
-              "RelativeDocumentMoniker": "SRV5283_MB\\SessionManager5283_MB.cs",
-              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\SessionManager5283_MB.cs",
-              "RelativeToolTip": "SRV5283_MB\\SessionManager5283_MB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "Encriptador5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Encriptador5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\Encriptador5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Encriptador5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\Encriptador5283_MB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T23:20:57.388Z",
+              "WhenOpened": "2026-05-15T21:14:34.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALAbstract5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\DALAbstract5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\DALAbstract5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\DALAbstract5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\DALAbstract5283_MB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:46:17.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Sesion5283_MT.cs",
-              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Sesion5283_MT.cs",
-              "RelativeDocumentMoniker": "SRV5283_MB\\Sesion5283_MT.cs",
-              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Sesion5283_MT.cs",
-              "RelativeToolTip": "SRV5283_MB\\Sesion5283_MT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Title": "DALUsuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\DALUsuario5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\DALUsuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\DALUsuario5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\DALUsuario5283_MB.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAlwMQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T23:15:59.335Z"
+              "WhenOpened": "2026-05-15T20:44:59.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MenuPrincipal5283_MB.cs",
-              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "RelativeToolTip": "Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BLLUsuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T21:43:19.115Z"
+              "WhenOpened": "2026-05-15T20:44:39.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuPrincipal5283_MB.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs",
-              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto-Montero-Botto\\MenuPrincipal5283_MB.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "Usuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Usuario5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\Usuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Usuario5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\Usuario5283_MB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T21:16:57.451Z"
+              "WhenOpened": "2026-05-15T20:56:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "RelativeToolTip": "Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:37:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogIn5283_MB.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\LogIn5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\LogIn5283_MB.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto-Montero-Botto\\LogIn5283_MB.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:35:21.73Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },

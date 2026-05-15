@@ -29,17 +29,17 @@
         private void InitializeComponent()
         {
             this.mstMenu = new System.Windows.Forms.MenuStrip();
-            this.usuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstUsuario = new System.Windows.Forms.ToolStripMenuItem();
             this.mstInciarSesion = new System.Windows.Forms.ToolStripMenuItem();
-            this.cambiarContraseñaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cerrarSesionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.administradorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestionDeUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.maestroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.alquilerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ventaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstCambiarContraseña = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstCerrarSesion = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstAdmin = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstGestionUsuarios = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstMaster = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstAlquiler = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstVenta = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstReporte = new System.Windows.Forms.ToolStripMenuItem();
+            this.mstAyuda = new System.Windows.Forms.ToolStripMenuItem();
             this.tlsNotificacion = new System.Windows.Forms.ToolStrip();
             this.txtUsuarioActivo = new System.Windows.Forms.ToolStripLabel();
             this.mstMenu.SuspendLayout();
@@ -49,28 +49,28 @@
             // mstMenu
             // 
             this.mstMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.usuarioToolStripMenuItem,
-            this.administradorToolStripMenuItem,
-            this.maestroToolStripMenuItem,
-            this.alquilerToolStripMenuItem,
-            this.ventaToolStripMenuItem,
-            this.reporteToolStripMenuItem,
-            this.ayudaToolStripMenuItem});
+            this.mstUsuario,
+            this.mstAdmin,
+            this.mstMaster,
+            this.mstAlquiler,
+            this.mstVenta,
+            this.mstReporte,
+            this.mstAyuda});
             this.mstMenu.Location = new System.Drawing.Point(0, 0);
             this.mstMenu.Name = "mstMenu";
             this.mstMenu.Size = new System.Drawing.Size(1239, 24);
             this.mstMenu.TabIndex = 0;
             this.mstMenu.Text = "menuStrip1";
             // 
-            // usuarioToolStripMenuItem
+            // mstUsuario
             // 
-            this.usuarioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mstUsuario.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mstInciarSesion,
-            this.cambiarContraseñaToolStripMenuItem,
-            this.cerrarSesionToolStripMenuItem});
-            this.usuarioToolStripMenuItem.Name = "usuarioToolStripMenuItem";
-            this.usuarioToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
-            this.usuarioToolStripMenuItem.Text = "Usuario";
+            this.mstCambiarContraseña,
+            this.mstCerrarSesion});
+            this.mstUsuario.Name = "mstUsuario";
+            this.mstUsuario.Size = new System.Drawing.Size(59, 20);
+            this.mstUsuario.Text = "Usuario";
             // 
             // mstInciarSesion
             // 
@@ -79,68 +79,68 @@
             this.mstInciarSesion.Text = "Iniciar Sesion";
             this.mstInciarSesion.Click += new System.EventHandler(this.mstInciarSesion_Click);
             // 
-            // cambiarContraseñaToolStripMenuItem
+            // mstCambiarContraseña
             // 
-            this.cambiarContraseñaToolStripMenuItem.Name = "cambiarContraseñaToolStripMenuItem";
-            this.cambiarContraseñaToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
-            this.cambiarContraseñaToolStripMenuItem.Text = "Cambiar Contraseña";
+            this.mstCambiarContraseña.Name = "mstCambiarContraseña";
+            this.mstCambiarContraseña.Size = new System.Drawing.Size(182, 22);
+            this.mstCambiarContraseña.Text = "Cambiar Contraseña";
             // 
-            // cerrarSesionToolStripMenuItem
+            // mstCerrarSesion
             // 
-            this.cerrarSesionToolStripMenuItem.Name = "cerrarSesionToolStripMenuItem";
-            this.cerrarSesionToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
-            this.cerrarSesionToolStripMenuItem.Text = "Cerrar Sesion";
-            this.cerrarSesionToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesionToolStripMenuItem_Click);
+            this.mstCerrarSesion.Name = "mstCerrarSesion";
+            this.mstCerrarSesion.Size = new System.Drawing.Size(182, 22);
+            this.mstCerrarSesion.Text = "Cerrar Sesion";
+            this.mstCerrarSesion.Click += new System.EventHandler(this.cerrarSesionToolStripMenuItem_Click);
             // 
-            // administradorToolStripMenuItem
+            // mstAdmin
             // 
-            this.administradorToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.gestionDeUsuarioToolStripMenuItem});
-            this.administradorToolStripMenuItem.Enabled = false;
-            this.administradorToolStripMenuItem.Name = "administradorToolStripMenuItem";
-            this.administradorToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
-            this.administradorToolStripMenuItem.Text = "Administrador";
+            this.mstAdmin.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mstGestionUsuarios});
+            this.mstAdmin.Enabled = false;
+            this.mstAdmin.Name = "mstAdmin";
+            this.mstAdmin.Size = new System.Drawing.Size(95, 20);
+            this.mstAdmin.Text = "Administrador";
             // 
-            // gestionDeUsuarioToolStripMenuItem
+            // mstGestionUsuarios
             // 
-            this.gestionDeUsuarioToolStripMenuItem.Name = "gestionDeUsuarioToolStripMenuItem";
-            this.gestionDeUsuarioToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
-            this.gestionDeUsuarioToolStripMenuItem.Text = "Gestion de Usuarios";
+            this.mstGestionUsuarios.Name = "mstGestionUsuarios";
+            this.mstGestionUsuarios.Size = new System.Drawing.Size(180, 22);
+            this.mstGestionUsuarios.Text = "Gestion de Usuarios";
             // 
-            // maestroToolStripMenuItem
+            // mstMaster
             // 
-            this.maestroToolStripMenuItem.Enabled = false;
-            this.maestroToolStripMenuItem.Name = "maestroToolStripMenuItem";
-            this.maestroToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
-            this.maestroToolStripMenuItem.Text = "Maestro";
+            this.mstMaster.Enabled = false;
+            this.mstMaster.Name = "mstMaster";
+            this.mstMaster.Size = new System.Drawing.Size(62, 20);
+            this.mstMaster.Text = "Maestro";
             // 
-            // alquilerToolStripMenuItem
+            // mstAlquiler
             // 
-            this.alquilerToolStripMenuItem.Enabled = false;
-            this.alquilerToolStripMenuItem.Name = "alquilerToolStripMenuItem";
-            this.alquilerToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
-            this.alquilerToolStripMenuItem.Text = "Alquiler";
+            this.mstAlquiler.Enabled = false;
+            this.mstAlquiler.Name = "mstAlquiler";
+            this.mstAlquiler.Size = new System.Drawing.Size(60, 20);
+            this.mstAlquiler.Text = "Alquiler";
             // 
-            // ventaToolStripMenuItem
+            // mstVenta
             // 
-            this.ventaToolStripMenuItem.Enabled = false;
-            this.ventaToolStripMenuItem.Name = "ventaToolStripMenuItem";
-            this.ventaToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
-            this.ventaToolStripMenuItem.Text = "Venta";
+            this.mstVenta.Enabled = false;
+            this.mstVenta.Name = "mstVenta";
+            this.mstVenta.Size = new System.Drawing.Size(48, 20);
+            this.mstVenta.Text = "Venta";
             // 
-            // reporteToolStripMenuItem
+            // mstReporte
             // 
-            this.reporteToolStripMenuItem.Enabled = false;
-            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
-            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
-            this.reporteToolStripMenuItem.Text = "Reporte";
+            this.mstReporte.Enabled = false;
+            this.mstReporte.Name = "mstReporte";
+            this.mstReporte.Size = new System.Drawing.Size(60, 20);
+            this.mstReporte.Text = "Reporte";
             // 
-            // ayudaToolStripMenuItem
+            // mstAyuda
             // 
-            this.ayudaToolStripMenuItem.Enabled = false;
-            this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
-            this.ayudaToolStripMenuItem.Text = "Ayuda";
+            this.mstAyuda.Enabled = false;
+            this.mstAyuda.Name = "mstAyuda";
+            this.mstAyuda.Size = new System.Drawing.Size(53, 20);
+            this.mstAyuda.Text = "Ayuda";
             // 
             // tlsNotificacion
             // 
@@ -183,17 +183,17 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip mstMenu;
-        private System.Windows.Forms.ToolStripMenuItem usuarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mstUsuario;
         private System.Windows.Forms.ToolStripMenuItem mstInciarSesion;
-        private System.Windows.Forms.ToolStripMenuItem cambiarContraseñaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cerrarSesionToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem administradorToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem gestionDeUsuarioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem maestroToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem alquilerToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ventaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem reporteToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mstCambiarContraseña;
+        private System.Windows.Forms.ToolStripMenuItem mstCerrarSesion;
+        private System.Windows.Forms.ToolStripMenuItem mstAdmin;
+        private System.Windows.Forms.ToolStripMenuItem mstGestionUsuarios;
+        private System.Windows.Forms.ToolStripMenuItem mstMaster;
+        private System.Windows.Forms.ToolStripMenuItem mstAlquiler;
+        private System.Windows.Forms.ToolStripMenuItem mstVenta;
+        private System.Windows.Forms.ToolStripMenuItem mstReporte;
+        private System.Windows.Forms.ToolStripMenuItem mstAyuda;
         private System.Windows.Forms.ToolStrip tlsNotificacion;
         private System.Windows.Forms.ToolStripLabel txtUsuarioActivo;
     }
