@@ -30,6 +30,8 @@ namespace Proyecto_Montero_Botto
                 frm.Validar();
                 if (user.VerificarClaveBlanqueada())
                 {
+                    //Esto deberia devolver un true si fue la primera vez tras el blanqueo
+                    //y en ese caso abre la ventana de cambio de clave
                     frm.ShowCambioClave();
                 }
                 this.Close();
@@ -38,8 +40,5 @@ namespace Proyecto_Montero_Botto
                 MessageBox.Show(error.Message.ToString());
             }
         }
-
-        //Faltaria verificar que es la primera vez que se loguea con blanqueo de clave
-        //mandarlo al cambio de clave
     }
 }
