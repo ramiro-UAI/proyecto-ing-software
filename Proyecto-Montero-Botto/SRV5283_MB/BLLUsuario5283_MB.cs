@@ -1,4 +1,5 @@
-﻿using SRV_5283_MB;
+﻿using Microsoft.Win32;
+using SRV_5283_MB;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -100,6 +101,19 @@ namespace SRV5283_MB
             {
                 user.Contraseña = Encriptador5283_MB.EncriptarMD5(Nueva);
                 DAL.Update(user);
+            }
+        }
+
+        public bool VerificarClaveBlanqueada()
+        {
+            Usuario5283_MB user = SessionManager5283_MB.Instance.usuario;
+            if(user.Contraseña == Encriptador5283_MB.EncriptarMD5(user.Nombre + user.DNI.ToString()))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
     }

@@ -58,5 +58,12 @@ namespace Proyecto_Montero_Botto
                 }
             }
         }
+
+        public void ShowCambioClave()
+        {
+            CambiarClave5283_MB frm = new CambiarClave5283_MB();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

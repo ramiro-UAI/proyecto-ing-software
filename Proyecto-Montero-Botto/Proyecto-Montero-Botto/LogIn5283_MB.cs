@@ -25,9 +25,13 @@ namespace Proyecto_Montero_Botto
         {
             try
             {
-                //user.LogIn   
+                user.LogIn(txtNombreUsuario.Text, txtContraseña.Text);   
                 MenuPrincipal5283_MB frm = (MenuPrincipal5283_MB)this.MdiParent;
                 frm.Validar();
+                if (user.VerificarClaveBlanqueada())
+                {
+                    frm.ShowCambioClave();
+                }
                 this.Close();
             }catch(Exception error)
             {
