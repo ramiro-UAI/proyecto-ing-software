@@ -1,6 +1,6 @@
 ﻿namespace Proyecto_Montero_Botto
 {
-    partial class GestionDeUsuario
+    partial class GestionDeUsuario5283_MB
     {
         /// <summary>
         /// Required designer variable.
@@ -34,11 +34,11 @@
             this.btnEliminarUsuario = new System.Windows.Forms.Button();
             this.btnBloqueoUsuario = new System.Windows.Forms.Button();
             this.lblDNI = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtDni = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.lblApellido = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtApellido = new System.Windows.Forms.TextBox();
             this.lblPerfil = new System.Windows.Forms.Label();
             this.cbxPerfil = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvListUsuarios)).BeginInit();
@@ -60,6 +60,7 @@
             this.btnAgregarUsuario.TabIndex = 1;
             this.btnAgregarUsuario.Text = "Agregar Usuario";
             this.btnAgregarUsuario.UseVisualStyleBackColor = true;
+            this.btnAgregarUsuario.Click += new System.EventHandler(this.btnAgregarUsuario_Click);
             // 
             // btnModificarUsuario
             // 
@@ -69,6 +70,7 @@
             this.btnModificarUsuario.TabIndex = 1;
             this.btnModificarUsuario.Text = "Modificar Usuario";
             this.btnModificarUsuario.UseVisualStyleBackColor = true;
+            this.btnModificarUsuario.Click += new System.EventHandler(this.btnModificarUsuario_Click);
             // 
             // btnEliminarUsuario
             // 
@@ -78,6 +80,7 @@
             this.btnEliminarUsuario.TabIndex = 1;
             this.btnEliminarUsuario.Text = "Eliminar Usuario";
             this.btnEliminarUsuario.UseVisualStyleBackColor = true;
+            this.btnEliminarUsuario.Click += new System.EventHandler(this.btnEliminarUsuario_Click);
             // 
             // btnBloqueoUsuario
             // 
@@ -87,6 +90,7 @@
             this.btnBloqueoUsuario.TabIndex = 1;
             this.btnBloqueoUsuario.Text = "Bloqueo / Desbloquear Usuario";
             this.btnBloqueoUsuario.UseVisualStyleBackColor = true;
+            this.btnBloqueoUsuario.Click += new System.EventHandler(this.btnBloqueoUsuario_Click);
             // 
             // lblDNI
             // 
@@ -97,12 +101,12 @@
             this.lblDNI.TabIndex = 2;
             this.lblDNI.Text = "DNI:";
             // 
-            // textBox1
+            // txtDni
             // 
-            this.textBox1.Location = new System.Drawing.Point(66, 347);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(121, 20);
-            this.textBox1.TabIndex = 3;
+            this.txtDni.Location = new System.Drawing.Point(66, 347);
+            this.txtDni.Name = "txtDni";
+            this.txtDni.Size = new System.Drawing.Size(121, 20);
+            this.txtDni.TabIndex = 3;
             // 
             // lblNombre
             // 
@@ -113,12 +117,12 @@
             this.lblNombre.TabIndex = 2;
             this.lblNombre.Text = "Nombre:";
             // 
-            // textBox2
+            // txtNombre
             // 
-            this.textBox2.Location = new System.Drawing.Point(66, 373);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(121, 20);
-            this.textBox2.TabIndex = 3;
+            this.txtNombre.Location = new System.Drawing.Point(66, 373);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(121, 20);
+            this.txtNombre.TabIndex = 3;
             // 
             // lblApellido
             // 
@@ -129,12 +133,12 @@
             this.lblApellido.TabIndex = 2;
             this.lblApellido.Text = "Apellido:";
             // 
-            // textBox3
+            // txtApellido
             // 
-            this.textBox3.Location = new System.Drawing.Point(66, 399);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(121, 20);
-            this.textBox3.TabIndex = 3;
+            this.txtApellido.Location = new System.Drawing.Point(66, 399);
+            this.txtApellido.Name = "txtApellido";
+            this.txtApellido.Size = new System.Drawing.Size(121, 20);
+            this.txtApellido.TabIndex = 3;
             // 
             // lblPerfil
             // 
@@ -156,25 +160,25 @@
             this.cbxPerfil.Size = new System.Drawing.Size(121, 21);
             this.cbxPerfil.TabIndex = 4;
             // 
-            // GestionDeUsuario
+            // GestionDeUsuario5283_MB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(970, 458);
             this.Controls.Add(this.cbxPerfil);
             this.Controls.Add(this.lblPerfil);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.lblApellido);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lblNombre);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtDni);
             this.Controls.Add(this.lblDNI);
             this.Controls.Add(this.btnBloqueoUsuario);
             this.Controls.Add(this.btnEliminarUsuario);
             this.Controls.Add(this.btnModificarUsuario);
             this.Controls.Add(this.btnAgregarUsuario);
             this.Controls.Add(this.dgvListUsuarios);
-            this.Name = "GestionDeUsuario";
+            this.Name = "GestionDeUsuario5283_MB";
             this.Text = "GestionDeUsuario";
             ((System.ComponentModel.ISupportInitialize)(this.dgvListUsuarios)).EndInit();
             this.ResumeLayout(false);
@@ -190,11 +194,11 @@
         private System.Windows.Forms.Button btnEliminarUsuario;
         private System.Windows.Forms.Button btnBloqueoUsuario;
         private System.Windows.Forms.Label lblDNI;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtDni;
         private System.Windows.Forms.Label lblNombre;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label lblApellido;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtApellido;
         private System.Windows.Forms.Label lblPerfil;
         private System.Windows.Forms.ComboBox cbxPerfil;
     }

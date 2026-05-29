@@ -87,6 +87,19 @@ namespace SRV5283_MB
             DAL.Insert(user);
         }
 
+        public void ModificarUsuario(Usuario5283_MB user)
+        {
+            Usuario5283_MB userMod = DAL.GetByData(user.DNI.ToString(), "DNI");
+            user.ID = userMod.ID;
+            user.DNI = userMod.DNI;
+            user.Nombre = userMod.Nombre;
+            user.Apellido = userMod.Apellido;
+            user.NombreUsuario = userMod.NombreUsuario;
+            user.Perfil = userMod.Perfil;
+            user.Bloqueo = userMod.Bloqueo;
+            DAL.Update(user);
+        }
+
         public void EliminarUsuario(Usuario5283_MB user)
         {
             Usuario5283_MB userDel = DAL.GetByData(user.DNI.ToString(), "DNI");
@@ -102,6 +115,25 @@ namespace SRV5283_MB
                 user.Contraseña = Encriptador5283_MB.EncriptarMD5(Nueva);
                 DAL.Update(user);
             }
+        }
+
+        public string BloqueoDesbloqueoUsuario(Usuario5283_MB user)
+        {
+            Usuario5283_MB userMod = DAL.GetByData(user.DNI.ToString(), "DNI");
+            if(userMod.Bloqueo == 0)
+            {
+                userMod.Bloqueo = 1;
+                DAL.Update(userMod);
+                return "Usuario Bloqueado";
+            }
+            else
+            {
+                userMod.Bloqueo = 0;
+                userMod.Contraseña = Encriptador5283_MB.EncriptarMD5(userMod.Nombre + userMod.DNI.ToString());
+                DAL.Update(userMod);
+                return "Usuario Desbloqueado";
+            }
+
         }
 
         public bool VerificarClaveBlanqueada()

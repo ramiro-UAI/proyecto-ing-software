@@ -73,11 +73,11 @@
     <Compile Include="CambiarClave5283_MB.Designer.cs">
       <DependentUpon>CambiarClave5283_MB.cs</DependentUpon>
     </Compile>
-    <Compile Include="GestionDeUsuario.cs">
+    <Compile Include="GestionDeUsuario5283_MB.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GestionDeUsuario.Designer.cs">
-      <DependentUpon>GestionDeUsuario.cs</DependentUpon>
+    <Compile Include="GestionDeUsuario5283_MB.Designer.cs">
+      <DependentUpon>GestionDeUsuario5283_MB.cs</DependentUpon>
     </Compile>
     <Compile Include="LogIn5283_MB.cs">
       <SubType>Form</SubType>
@@ -96,8 +96,8 @@
     <EmbeddedResource Include="CambiarClave5283_MB.resx">
       <DependentUpon>CambiarClave5283_MB.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GestionDeUsuario.resx">
-      <DependentUpon>GestionDeUsuario.cs</DependentUpon>
+    <EmbeddedResource Include="GestionDeUsuario5283_MB.resx">
+      <DependentUpon>GestionDeUsuario5283_MB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LogIn5283_MB.resx">
       <DependentUpon>LogIn5283_MB.cs</DependentUpon>
