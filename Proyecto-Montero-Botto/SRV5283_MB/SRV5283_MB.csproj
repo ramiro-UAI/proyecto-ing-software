@@ -42,10 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLLUsuario5283_MB.cs" />
+    <Compile Include="DALBitacora5283_MB.cs" />
     <Compile Include="Encriptador5283_MB.cs" />
     <Compile Include="DALAbstract5283_MB.cs" />
     <Compile Include="DALUsuario5283_MB.cs" />
     <Compile Include="Entity5283_MB.cs" />
+    <Compile Include="Evento5283_MB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sesion5283_MT.cs" />
     <Compile Include="SessionManager5283_MB.cs" />
