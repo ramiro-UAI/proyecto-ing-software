@@ -16,7 +16,7 @@ namespace Proyecto_Montero_Botto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LogIn5283_MB());
+            Application.Run(new MenuPrincipal5283_MB());
         }
     }
 }

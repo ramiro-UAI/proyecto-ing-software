@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\Proyecto-Montero-Botto.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\proyecto-montero-botto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\Proyecto-Montero-Botto.csproj|solutionrelative:proyecto-montero-botto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\proyecto-montero-botto\\gestiondeusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\gestiondeusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\proyecto-montero-botto\\gestiondeusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\gestiondeusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\bllusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\bllusuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|f:\\proyectos\\test boxes\\proyecto-ing-software\\proyecto-montero-botto\\srv5283_mb\\usuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46FE950-1187-4395-9050-EF1A1B66A9C5}|SRV5283_MB\\SRV5283_MB.csproj|solutionrelative:srv5283_mb\\usuario5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\proyecto-montero-botto\\cambiarclave5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D11CD8D7-4608-48E7-B137-38499C0BAAA5}|Proyecto-Montero-Botto\\GUI_5283_MB.csproj|solutionrelative:proyecto-montero-botto\\cambiarclave5283_mb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +29,92 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 193,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Usuario5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\Usuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\Usuario5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\Usuario5283_MB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T21:59:06.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLLUsuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "RelativeDocumentMoniker": "SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "RelativeToolTip": "SRV5283_MB\\BLLUsuario5283_MB.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwHcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T21:48:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionDeUsuario5283_MB.cs",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "RelativeToolTip": "Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgv2YAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:31:57.902Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\Form1.cs",
-              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\Form1.cs",
-              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto-Montero-Botto\\Form1.cs [Dise\u00F1o]",
+              "Title": "GestionDeUsuario5283_MB.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto-Montero-Botto\\GestionDeUsuario5283_MB.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:27:00.971Z",
+              "WhenOpened": "2026-05-27T17:21:31.837Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CambiarClave5283_MB.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\CambiarClave5283_MB.cs",
+              "RelativeDocumentMoniker": "Proyecto-Montero-Botto\\CambiarClave5283_MB.cs",
+              "ToolTip": "F:\\Proyectos\\Test Boxes\\proyecto-ing-software\\Proyecto-Montero-Botto\\Proyecto-Montero-Botto\\CambiarClave5283_MB.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto-Montero-Botto\\CambiarClave5283_MB.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T17:21:29.765Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
